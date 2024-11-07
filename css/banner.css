@@ -7,3 +7,20 @@
 	padding: 2em;
 	text-align: center;
   }
+  body
+{
+	margin: auto;
+	width: 90%;
+	background-color: #BFD9DF;
+
+}
+header
+{
+	width: 100%;
+	background-color: #62A5AC;
+	color: #0C0817;
+	text-align: center;
+	font-size: 200%;
+	padding-top: 0.1em;
+	padding-bottom: 0.02em;
+}
