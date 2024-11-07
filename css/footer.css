@@ -9,7 +9,7 @@
 	width: 100%;
   }
   .instagram-icon {
-	color: rgb(189, 255, 9);
+	color: rgb(255, 255, 255);
     fill: white; /* Blanco por defecto */
     transition: fill 0.3s ease;
 }
